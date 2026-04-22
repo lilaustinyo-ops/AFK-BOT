@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UncrustableSMP2026.aternos.me
-",
+    "ip": "UncrustableSMP2026.aternos.me",
     "port": 27657,
     "version": "",
     "try-creative": false
